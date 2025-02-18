@@ -8,5 +8,11 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
+@import url(../blocks/two-colomns/two-colomns.css);
+@import url(../blocks/two-colomns/__brief/two-colomns__brief.css);
+@import url(../blocks/two-colomns/__main-text/two-colomns__main-text.css);
+@import url(../blocks/two-colomns/__paragraph/two-colomns__paragraph.css);
+
+
 
 
