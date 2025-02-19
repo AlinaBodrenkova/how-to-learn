@@ -13,7 +13,13 @@
 @import url(../blocks/description/__two-colomns_brief/description__two-colomns_brief.css);
 @import url(../blocks/description/__two-colomns_main-text/description__two-colomns_main-text.css);
 @import url(../blocks/description/__two-colomns_paragraph/description__two-colomns_paragraph.css);
-
-
+@import url(../blocks/digits/digits.css);
+@import url(../blocks/digits/__section/digits__section.css);
+@import url(../blocks/digits/__section_section-title/digits__section_section-title.css);
+@import url(../blocks/digits/__section_section-subtitle/digits__section_section-subtitle.css);
+@import url(../blocks/digits/__table/digits__table.css);
+@import url(../blocks/digits/__table_cell/digits__table_cell.css);
+@import url(../blocks/digits/__table_heading/digits__table_heading.css);
+@import url(../blocks/digits/__table_text/digits__table_text.css);
 
 

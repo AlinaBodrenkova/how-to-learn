@@ -1,0 +1,6 @@
+.digits__table_cell {   
+    display: flex;
+    flex-direction: column;    
+    width: 250px;
+    padding-top: 60px;
+}

@@ -1,0 +1,7 @@
+.digits__table_heading {
+    display: flex;
+    gap: 20px;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.15;
+}
