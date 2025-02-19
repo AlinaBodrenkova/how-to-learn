@@ -1,0 +1,14 @@
+.description__two-colomns_brief {
+    display: flex;
+    align-self: start;  
+    
+    line-height: 1.2;
+    font-size: 18px;     
+    color: #2f80ed;
+
+
+}
+.description__two-colomns_brief p {
+    margin: 0;
+    width: 175px;
+}
