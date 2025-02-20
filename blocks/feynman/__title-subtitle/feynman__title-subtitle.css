@@ -1,0 +1,9 @@
+.feynman__title-subtitle {
+    line-height: 51px;
+    font-size: 26px;
+    /* font-weight: normal; */
+}
+.feynman__title-subtitle h2 {
+    margin: 0;
+    font-weight: normal;
+}
