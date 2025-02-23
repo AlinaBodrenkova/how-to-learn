@@ -1,5 +1,6 @@
 .kaufman__section-subtitle_theme_dark {
     margin: 0;
+    z-index: 2;
     padding-top: 20px;
     line-height: 34px;
     font-size: 24px;

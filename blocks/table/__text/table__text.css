@@ -1,6 +1,5 @@
-.digits__table_text {
-    display: flex;
-    gap: 20px;
+.table__text {
+    margin: 0;    
     font-size: 18px;
     font-weight: normal;
     line-height: 1.2;
